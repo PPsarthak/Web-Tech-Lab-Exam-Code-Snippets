@@ -1,0 +1,1 @@
+Writing in the file using NodeJS writeFile() function which is async
