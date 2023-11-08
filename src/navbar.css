@@ -1,0 +1,30 @@
+/* Basic styling for the navbar */
+nav {
+    background-color: #333;
+    padding: 10px;
+    margin: 15px 0px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+#navbar {
+    margin-right: 15px;
+    color: white;
+    cursor: pointer;
+}
+
+/* Change color on hover for better user interaction */
+#navbar:hover {
+    color: #61dafb;
+}
+
+#title{
+    margin-right: 1.5rem;
+    color: #61dafb;
+
+}
